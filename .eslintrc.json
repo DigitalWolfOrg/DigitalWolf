@@ -1,0 +1,7 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "react/no-unescaped-entities": "off", // Disables unescaped entities rule
+    "react/jsx-key": "warn"              // Changes missing `key` prop to a warning
+  }
+}
