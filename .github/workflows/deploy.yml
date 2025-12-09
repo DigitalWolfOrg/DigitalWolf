@@ -1,34 +1,27 @@
-name: Deploy to Server
+name: Deploy to EC2
 
 on:
   push:
-    branches:
-      - main # Deploy when there's a push to the main branch
+    branches: ["main"]
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+    - name: Checkout Code
+      uses: actions/checkout@v4
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '20'
-
-    # - name: Install dependencies
-    #   run: npm install --force
-
-    - name: Deploy to server
-      env:
-        SERVER_HOST: ${{ secrets.SERVER_HOST }}
-        SERVER_USERNAME: ${{ secrets.SERVER_USERNAME }}
-        SSH_KEY: ${{ secrets.SERVER_SSH_KEY }}
-        DESTINATION: ${{ secrets.DESTINATION_PATH }}
+    - name: Setup SSH Key
       run: |
-        echo "$SSH_KEY" > key.pem
-        chmod 600 key.pem
-        rsync -avz -e "ssh -i key.pem -o StrictHostKeyChecking=no" --exclude=node_modules --exclude=.git ./ $SERVER_USERNAME@$SERVER_HOST:$DESTINATION
-        ssh -i key.pem -o StrictHostKeyChecking=no $SERVER_USERNAME@$SERVER_HOST "source ~/.nvm/nvm.sh && cd /var/www/html/CynergyStudio && npm i --force && pm2 restart 0"
+        mkdir -p ~/.ssh
+        echo "${{ secrets.SERVER_SSH_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -H ${{ secrets.SERVER_HOST }} >> ~/.ssh/known_hosts
+
+    - name: Trigger Deploy Script on EC2
+      run: |
+        ssh -o StrictHostKeyChecking=no \
+        ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_HOST }} \
+        "cd /home/ubuntu/digital-wolf-fe && ./deploy.sh"
+  
