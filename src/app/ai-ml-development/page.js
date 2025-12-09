@@ -44,8 +44,8 @@ const Page = () => {
           <br /> services we provide
         </h2>
         <p className="paragraphText">
-        Cynergy offers comprehensive AI & ML software development services, including AI-based learning platforms, intelligent tutoring systems,
-        <br /> adaptive learning solutions, and educational data analytics tools. Our team specializes in creating machine learning models, <br /> natural language processing (NLP) applications, and AI-powered chatbots to enhance student engagement, automate administrative tasks,<br /> and improve overall educational outcomes. Cynergy ensures that our AI & ML solutions are scalable, secure, and tailored to the unique needs of educational institutions.
+        Digital Wolf offers comprehensive AI & ML software development services, including AI-based learning platforms, intelligent tutoring systems,
+        <br /> adaptive learning solutions, and educational data analytics tools. Our team specializes in creating machine learning models, <br /> natural language processing (NLP) applications, and AI-powered chatbots to enhance student engagement, automate administrative tasks,<br /> and improve overall educational outcomes. Digital Wolf ensures that our AI & ML solutions are scalable, secure, and tailored to the unique needs of educational institutions.
         </p>
         <div className="row mt-5">
           {aiSoftware.map((item,i)=>(
@@ -90,7 +90,7 @@ const Page = () => {
         </div>
       </div>
 
-      <IOSAppDesignServices data={sliderData} heading="AI & ML  Development <br /> Services" description="Cynergy’s AI & ML development services offer a wide range of benefits that empower businesses to enhance operational efficiency, improve decision-making, and drive innovation. By incorporating AI & ML technologies into business processes, companies can streamline tasks, automate complex workflows, and reduce human error." />
+      <IOSAppDesignServices data={sliderData} heading="AI & ML  Development <br /> Services" description="Digital Wolf's AI & ML development services offer a wide range of benefits that empower businesses to enhance operational efficiency, improve decision-making, and drive innovation. By incorporating AI & ML technologies into business processes, companies can streamline tasks, automate complex workflows, and reduce human error." />
 
       <div className="py-5 appMobilePaddingSmall" style={{backgroundColor: "#fffbf8"}}>
         <div className="row pt-5 col-12 d-flex justify-content-center" >

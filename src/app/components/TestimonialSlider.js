@@ -91,7 +91,7 @@ const TestimonialSlider = () => {
                   <button
                     style={{
                       backgroundColor: index === 1 ? "#fff" : "#800000",
-                      color: index === 1 ? "#2b90c3" : "#fff",
+                      color: index === 1 ? "#800000" : "#fff",
                     }}
                   >
                     App Development

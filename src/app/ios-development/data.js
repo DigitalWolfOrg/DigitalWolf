@@ -34,12 +34,12 @@ export  const faqData = [
   ];
 
   export const processes = [
-    {heading:"App Idea",description:"The development process begins with a thorough market analysis to identify your target audience and their specific needs. This research helps us formulate a unique app idea that stands out from the competition. Cynergy’s experts work closely with you to define clear project goals and ensure that the app delivers value to users."},
-    {heading:"Documentation",description:"Once the app concept is defined, Cynergy creates a detailed document outlining the project’s functional and non-functional requirements. This includes product specifications, user interface requirements, and integration needs. Our team ensures that all technical aspects are covered to guarantee smooth execution."},
-    {heading:"Tools And Technologies",description:"Cynergy carefully select the most suitable tools and technologies for your app. From programming languages like Swift and Objective-C to development platforms such as Xcode, our team ensures the use of the latest technologies to optimize app performance, security, and scalability."},
-    {heading:"Build an MVP",description:"Cynergy creates a Minimum Viable Product (MVP) to test the app’s concept and functionality in real-world scenarios. The MVP serves as a blueprint for further development, helping to refine the user experience and ensure that the app meets market expectations."},
-    {heading:"App Review",description:"Before launching your app, Cynergy ensures it meets Apple’s guidelines for submission. We conduct a thorough review process to eliminate any bugs and verify that the app complies with all technical and legal requirements. This ensures a smooth approval process for your app."},
-    {heading:"Launch And Deploy",description:"Once your app is fully tested and approved, we deploy it on the App Store. Cynergy helps optimize the launch process to ensure maximum visibility and reach. After deployment, Cynergy continues to support the app with updates and improvements to keep it competitive."},
+    {heading:"App Idea",description:"The development process begins with a thorough market analysis to identify your target audience and their specific needs. This research helps us formulate a unique app idea that stands out from the competition. Digital Wolf’s experts work closely with you to define clear project goals and ensure that the app delivers value to users."},
+    {heading:"Documentation",description:"Once the app concept is defined, Digital Wolf creates a detailed document outlining the project’s functional and non-functional requirements. This includes product specifications, user interface requirements, and integration needs. Our team ensures that all technical aspects are covered to guarantee smooth execution."},
+    {heading:"Tools And Technologies",description:"Digital Wolf carefully select the most suitable tools and technologies for your app. From programming languages like Swift and Objective-C to development platforms such as Xcode, our team ensures the use of the latest technologies to optimize app performance, security, and scalability."},
+    {heading:"Build an MVP",description:"Digital Wolf creates a Minimum Viable Product (MVP) to test the app’s concept and functionality in real-world scenarios. The MVP serves as a blueprint for further development, helping to refine the user experience and ensure that the app meets market expectations."},
+    {heading:"App Review",description:"Before launching your app, Digital Wolf ensures it meets Apple’s guidelines for submission. We conduct a thorough review process to eliminate any bugs and verify that the app complies with all technical and legal requirements. This ensures a smooth approval process for your app."},
+    {heading:"Launch And Deploy",description:"Once your app is fully tested and approved, we deploy it on the App Store. Digital Wolf helps optimize the launch process to ensure maximum visibility and reach. After deployment, Digital Wolf continues to support the app with updates and improvements to keep it competitive."},
    
   ]
 
@@ -52,9 +52,9 @@ export  const faqData = [
 
   export const whyChooseUs = [
     {heading:"Specialized Expertise",description:"Our team of skilled developers provides expert services to create high-quality iOS apps."},
-    {heading:"Faster Development",description:"Cynergy leverages advanced tools and methodologies to speed up the development process without compromising quality."},
-    {heading:"Secure and Reliable",description:"Cynergy prioritizes security and compliance, ensuring that your app is free from vulnerabilities."},
-    {heading:"Flexible Scaling",description:"Cynergy offers scalable solutions to accommodate your app’s growth and future updates."},
+    {heading:"Faster Development",description:"Digital Wolf leverages advanced tools and methodologies to speed up the development process without compromising quality."},
+    {heading:"Secure and Reliable",description:"Digital Wolf prioritizes security and compliance, ensuring that your app is free from vulnerabilities."},
+    {heading:"Flexible Scaling",description:"Digital Wolf offers scalable solutions to accommodate your app’s growth and future updates."},
     {heading:"Latest Technologies",description:"Our iOS application development services check all the released updates, therefore. This is presaged in several months of beta testing by  reliable iOS app which allows the same software version, simplifying testing and support for iOS users."},
-    { heading: "Client-Centric Approach", description: "At Cynergy, we focus on understanding your unique business needs to deliver tailored iOS app solutions that align with your goals."}
+    { heading: "Client-Centric Approach", description: "At Digital Wolf, we focus on understanding your unique business needs to deliver tailored iOS app solutions that align with your goals."}
   ]

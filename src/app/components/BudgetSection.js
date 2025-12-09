@@ -182,7 +182,7 @@ const handleFileChange = (e) => {
                 We value your time—expect a prompt response, often within just 30 minutes!
               </h3>
               <div className="mt-4 p-3 rounded budg-sec ">
-                <ul>
+                <ul style={{  filter: "invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%)"}}>
                   <li>
                   Rest assured, your concepts are fully protected under our NDA, ensuring complete confidentiality.
                   </li>
@@ -234,7 +234,7 @@ const handleFileChange = (e) => {
 
 
                 <div className="form-group mt-3" style={{position:'relative'}}>
-                  <div onClick={handleOpenProjectType} style={{borderColor:showProjectDropdown?'#2b90c3':'rgb(216, 215, 215)',color:showProjectDropdown?'#2b90c3':''}} className="customSelect">
+                  <div onClick={handleOpenProjectType} style={{borderColor:showProjectDropdown?'#800000':'rgb(216, 215, 215)',color:showProjectDropdown?'#800000':''}} className="customSelect">
                     <div>
                       {formData.projectType || "Type of Project"}
                     </div>
@@ -247,7 +247,7 @@ const handleFileChange = (e) => {
                  {showProjectDropdown && <SubMenuDropdown closeDropdown={() => setShowProjectDropdown(false)} data={projectOptions} handleCategoryClick={handleCategoryClick} activeCategory={activeCategory} handleSubOptionClick={handleSubOptionClick}   />}   
                 </div>
                 <div className="form-group mt-3" style={{position:'relative'}}>
-                <div onClick={handleOpenTimelineType} style={{borderColor:showTimeLineDropdown?'#2b90c3':'rgb(216, 215, 215)',color:showTimeLineDropdown?'#2b90c3':''}} className="customSelect">
+                <div onClick={handleOpenTimelineType} style={{borderColor:showTimeLineDropdown?'#800000':'rgb(216, 215, 215)',color:showTimeLineDropdown?'#800000':''}} className="customSelect">
                     <div>
                       {formData.timeline || "Select Timeline"}
                     </div>

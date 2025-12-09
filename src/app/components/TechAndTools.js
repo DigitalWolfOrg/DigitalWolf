@@ -4,7 +4,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-const TechAndTools = ({desc="Cynergy leverages a proven technology stack to develop secure, scalable, and high-performing apps for iOS and Android platforms.<br /> From rich layouts to in-app notifications, Cynergy’s solutions ensure a solid foundation for your app’s success."}) => {
+const TechAndTools = ({desc="Digital Wolf leverages a proven technology stack to develop secure, scalable, and high-performing apps for iOS and Android platforms.<br /> From rich layouts to in-app notifications, Digital Wolf's solutions ensure a solid foundation for your app’s success."}) => {
   const [activeIndex, setActiveIndex] = useState(0);
 
   const settings = {

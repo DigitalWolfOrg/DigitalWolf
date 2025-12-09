@@ -75,7 +75,7 @@ function Evolution() {
                     beautiful).
                   </p>
                   <a
-                    href="https://www.figma.com/design/0B1dqt4hJ4WqW3HR5glJRo/Project---Four-Elements---Final-File?node-id=0-1&node-type=canvas&t=Bqf8eBgtvtNICCQ5-0"
+                    href="https://www.figma.com/design/LiC4rpqURwYSGFGvWHAs0w/Truck-Bites?m=auto&t=IUCfX8FGNEkdCf4T-6"
                     target="_blank"
                     class="whole-btn2"
                     style={{ marginRight: 15 }}
@@ -88,7 +88,7 @@ function Evolution() {
                     Wireframe
                   </a>
                   <a
-                    href="https://www.figma.com/proto/FcoNpNKsCP1pWMmlSFoP8j/Project---Four-Elements---Prototype?page-id=0%3A1&node-id=1-5277&node-type=canvas&viewport=1885%2C3497%2C0.73&t=RNnX7HkfZoIY10L0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A5277"
+                    href="https://www.figma.com/proto/LiC4rpqURwYSGFGvWHAs0w/Truck-Bites?m=auto&t=IUCfX8FGNEkdCf4T-6"
                     target="_blank"
                     class="whole-btn2"
                   >

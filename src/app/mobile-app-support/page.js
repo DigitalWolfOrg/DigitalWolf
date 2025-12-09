@@ -25,7 +25,7 @@ const page = () => {
               <div className="text-section">
                 <h1 className="title-page mainHeadingMobile">Mobile App Maintenance Company</h1>
                 <p className="paragraphText">
-                Cynergy, with a proven track record in maintenance and support, offers comprehensive services to keep your mobile app updated, secure, and optimized. Our solutions focus on compliance, security, and technological enhancement to ensure seamless performance.
+                Digital Wolf, with a proven track record in maintenance and support, offers comprehensive services to keep your mobile app updated, secure, and optimized. Our solutions focus on compliance, security, and technological enhancement to ensure seamless performance.
                 </p>
                <DropUsALine />
               </div>
@@ -47,7 +47,7 @@ const page = () => {
             <h2 className="mb-4 mainHeadingMobile">Support and Maintenance Services</h2>
             <p className="mb-4 paragraphText">
             Our service scope includes introducing new app features, maintaining app compliance, and monitoring key performance indicators (KPIs).<br />
-             With expertise, a clear process, and innovative strategies, Cynergy helps enterprises—big or small—achieve their business goals through<br /> 
+             With expertise, a clear process, and innovative strategies, Digital Wolf helps enterprises—big or small—achieve their business goals through<br /> 
              reliable maintenance and support.
             </p>
             <img
@@ -63,7 +63,7 @@ const page = () => {
         <div className="container">
           <h2 className="text-center mainHeadingMobile">Maintenance Process</h2>
           <p className="text-center paragraphText">
-          At Cynergy, our comprehensive maintenance process ensures app performance, user satisfaction, and seamless functionality. <br />Each step is strategically designed to meet client needs and industry standards.
+          At Digital Wolf, our comprehensive maintenance process ensures app performance, user satisfaction, and seamless functionality. <br />Each step is strategically designed to meet client needs and industry standards.
           </p>
 
           <MaintenanceProcess />
@@ -113,7 +113,7 @@ const page = () => {
             <div className="col-md-7">
               <h2 className="mainHeadingMobile">Why Choose Us</h2>
               <p className="paragraphText">
-              In today’s tech-driven world, consistent mobile app maintenance is essential to ensure app viability. At Cynergy, Cynergy is not only updates apps but also explores and implements strategies to scale them efficiently.
+              In today’s tech-driven world, consistent mobile app maintenance is essential to ensure app viability. At Digital Wolf, Digital Wolf is not only updates apps but also explores and implements strategies to scale them efficiently.
               </p>
             </div>
             <div className="col-md-5 d-flex justify-content-end align-items-center">

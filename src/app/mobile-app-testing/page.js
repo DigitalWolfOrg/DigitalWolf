@@ -24,7 +24,7 @@ const page = () => {
           <div className="col-md-6 d-flex align-items-start justify-content-center flex-column">
             <h2 className="mainHeadingMobile">Real-Time Mobile App Testing</h2>
             <p className="paragraphText my-3">
-            With years of proven success, Cynergy offers top-tier mobile app testing services that deliver fast, flawless applications ready to stand out in the competitive digital market. Cynergy focuses on scaling businesses by ensuring seamless performance, superior usability, optimal efficiency, risk-free compatibility, and innovative solutions for growth in the digital space.
+            With years of proven success, Digital Wolf offers top-tier mobile app testing services that deliver fast, flawless applications ready to stand out in the competitive digital market. Digital Wolf focuses on scaling businesses by ensuring seamless performance, superior usability, optimal efficiency, risk-free compatibility, and innovative solutions for growth in the digital space.
             </p>
            <DropUsALine />
           </div>
@@ -58,7 +58,7 @@ const page = () => {
               Mobile App Testing  <span>Services</span>
               </h2>
               <p className="paragraphText">
-              Cynergy offers premium mobile app testing services, leveraging automated testing to deliver fast and effective solutions, ensuring flawless performance and optimal user experience.
+              Digital Wolf offers premium mobile app testing services, leveraging automated testing to deliver fast and effective solutions, ensuring flawless performance and optimal user experience.
               </p>
 
               {topNotch.map((item) => (
@@ -106,9 +106,9 @@ const page = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-7">
-              <h2 className="mainHeadingMobile">Why Choose Cynergy</h2>
+              <h2 className="mainHeadingMobile">Why Choose Digital Wolf</h2>
               <p className="paragraphText">
-              Cynergy offers top-tier mobile app testing services, utilizing highly effective testing methodologies to prevent issues and deliver the most reliable solutions for our clients and partners.
+              Digital Wolf offers top-tier mobile app testing services, utilizing highly effective testing methodologies to prevent issues and deliver the most reliable solutions for our clients and partners.
               </p>
             </div>
             <div className="col-md-5 d-flex align-items-center justify-content-end">

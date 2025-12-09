@@ -391,10 +391,10 @@ function Header() {
               <li><Link href="/contact-us">Contact Us</Link></li>
             </ul>
 
-            <ul className="social-media">
-              <li><a href="https://www.facebook.com/digitalWolf.io" target="_blank"><FaFacebookF /></a></li>
-              <li><a href="https://www.instagram.com/digitalWolf.io?igsh=MTJjejMwb2RiMWgycQ==" target="_blank"><FaInstagram /></a></li>
-              <li><a href="https://www.linkedin.com/company/digitalWolf.co/posts/?feedView=all" target="_blank"><FaLinkedinIn /></a></li>
+            <ul className="#" style={{  filter: "invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%)"}}>
+              <li><a href="#" target="_blank"><FaFacebookF /></a></li>
+              <li><a href="#" target="_blank"><FaInstagram /></a></li>
+              <li><a href="#" target="_blank"><FaLinkedinIn /></a></li>
             </ul>
           </div>
           <div className="col-md-4 left-menu-img h-100"></div>

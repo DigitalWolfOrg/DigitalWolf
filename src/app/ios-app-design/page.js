@@ -31,7 +31,7 @@ const page = () => {
             <div className="col-md-7 d-flex align-items-end justify-content-center flex-column text-end">
               <h2 className="w-100 mainHeadingMobile mgTop25">Transformation Agency</h2>
               <p className="paragraphText my-4 col-md-9">
-              With years of experience, Cynergy’s expert team specializes in creating a seamless platform for your iOS app ideas. Cynergy prioritizes credibility, innovation, and modern technologies to craft solutions that meet the latest industry standards, ensuring your application stands out in the ever-evolving digital world.
+              With years of experience, Digital Wolf's expert team specializes in creating a seamless platform for your iOS app ideas. Digital Wolf prioritizes credibility, innovation, and modern technologies to craft solutions that meet the latest industry standards, ensuring your application stands out in the ever-evolving digital world.
               </p>
           <DropUsALine />
             </div>
@@ -46,7 +46,7 @@ const page = () => {
           <h2 className="mainHeadingMobile">Design Process</h2>
           <p className="text-center paragraphText">
           Our refined iOS app design process is built around user-centric methodologies, combining the latest technologies<br />
-           with a meticulous  approach to create high-quality, innovative app designs. Cynergy ensures each design phase 
+           with a meticulous  approach to create high-quality, innovative app designs. Digital Wolf ensures each design phase 
            <br />contributes to building seamless, functional, and visually compelling applications.
           </p>
           <div className="row">
@@ -60,13 +60,13 @@ const page = () => {
         </div>
       </div>
 
-      <div className="container workingWithCynergy appMobilePadding">
+      <div className="container workingWithDigitalWolf appMobilePadding">
         <h2 className="mainHeadingMobile">
           Working With
-         Cynergy  <br /> Studios
+         Digital Wolf  <br /> Studios
         </h2>
         <p className="text-center paragraphText">
-        Cynergy provides exceptional design services backed by years of experience, ensuring the creation of intuitive, user-friendly app designs that <br /> align with your business goals. Our team’s commitment to excellence and customer satisfaction guarantees outstanding user experiences.
+        Digital Wolf provides exceptional design services backed by years of experience, ensuring the creation of intuitive, user-friendly app designs that <br /> align with your business goals. Our team’s commitment to excellence and customer satisfaction guarantees outstanding user experiences.
         </p>
         <div className="row mt-5">
           {workingWith.map((item, index) => (
@@ -85,7 +85,7 @@ const page = () => {
             <div className="col-md-8">
               <h2 className="mainHeadingMobile">Why Choose Us</h2>
               <p className="paragraphText">
-              Partnering with Cynergy means gaining access to a team of experienced designers who will elevate your brand and digital presence. Cynergy utilizes cutting-edge tools and methodologies to craft exceptional iOS apps that exceed user expectations and position your brand for success.
+              Partnering with Digital Wolf means gaining access to a team of experienced designers who will elevate your brand and digital presence. Digital Wolf utilizes cutting-edge tools and methodologies to craft exceptional iOS apps that exceed user expectations and position your brand for success.
               </p>
             </div>
             <div className="col-md-4"></div>

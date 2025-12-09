@@ -1,8 +1,8 @@
 export const links = [
-    {imgUrl:"linkedin",link:"https://www.linkedin.com/company/digitalWolf.co/posts/?feedView=all"},
+    {imgUrl:"linkedin",link:"#"},
     // {imgUrl:"x",link:"#"},
-    {imgUrl:"facebook",link:"https://www.facebook.com/digitalWolf.io"},
+    {imgUrl:"facebook",link:"#"},
     // {imgUrl:"github",link:"https://github.com/digitalwolf"},
-    {imgUrl:"insta",link:"https://www.instagram.com/digitalWolf.io?igsh=MTJjejMwb2RiMWgycQ=="},
+    {imgUrl:"insta",link:"#"},
     // {imgUrl:"youtube",link:"https://www.youtube.com/channel/UCUVTjI_DcE-rOTwOyZTbbRA"},
 ]

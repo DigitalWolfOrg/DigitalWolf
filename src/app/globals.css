@@ -480,14 +480,12 @@ footer {
 .first-row {
   padding: 0px 100px;
   margin-bottom: 12px;
-    /* filter : invert(44%) sepia(95%) saturate(397%) hue-rotate(156deg) brightness(94%) contrast(89%); */
-  filter: invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%);
+  /* filter: invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%); */
 
 }
 .get-in-touch {
   width: 100%;
-  /* filter : invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%); */
-  filter: invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%) !important;
+
 }
 ul.footer-info {
   margin-bottom: 0px;
@@ -795,7 +793,7 @@ ul.footer-info li a {
   display: block;
   width: 16px;
   height: 16px;
-  border: 1px solid #2b90c3;
+  border: 1px solid #800000;
   border-radius: 2px;
   position: relative;
   cursor: pointer;
@@ -1015,7 +1013,7 @@ ul.footer-info li a {
   width: 100%;
   border: none !important;
   height: 4px;
-  background-color: #2b90c379;
+  background-color: #800000;
   border-radius: 5px;
   outline: none;
   cursor: pointer;
@@ -3092,7 +3090,7 @@ section.recent_news {
 .second-section .accordion-button:not(.collapsed)::after {
   background-image: url("/images/up-orrange-Arrow.png") !important;
   transform: none !important;
-    filter: invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%);
+  filter: invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%);
   
 }
 .case-study h2 {
@@ -3344,7 +3342,7 @@ section.recent_news {
   margin: 0px;
 }
 .tab-pannell {
-  background-color: #2b90c35b ;
+  background-color: #8000001a ;
   padding: 50px 0 30px 0;
   /* padding: 0 0 40px 0; */
 }
@@ -3462,13 +3460,13 @@ section.recent_news {
   background-position: center;
   background-size: cover !important;
   filter: invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%);
+  /* filter: invert(11%) sepia(47%) saturate(5377%) hue-rotate(351deg) brightness(96%) contrast(117%); */
 }
 .faqs .collapsed::after {
   background-image: url("/images/plus.svg") !important;
   background-position: center;
-  filter: invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%);
-      /* filter : invert(44%) sepia(95%) saturate(397%) hue-rotate(156deg) brightness(94%) contrast(89%); */
-
+  /* filter: invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%); */
+  filter: invert(11%) sepia(47%) saturate(5377%) hue-rotate(351deg) brightness(96%) contrast(117%);
 }
 .inner-cta {
   background-image: url("/images/inner-cta.png");
@@ -3744,6 +3742,7 @@ section.recent_news {
   background-size: cover;
   transition: 0.6s all;
   transform: translateX(40px);
+
 }
 .effect7:hover .cardDesc {
   color: #454545 !important;
@@ -3926,7 +3925,7 @@ section.recent_news {
 }
 
 .app-cta {
-  background-color: var(--orange);
+  background-color: #80000026;
   border-radius: 16px;
   background-image: url("/images/app-cta-back.png");
   background-repeat: no-repeat;
@@ -4009,7 +4008,7 @@ section.recent_news {
 }
 
 .cardTags button {
-  background-color: #2b90c365;
+  background-color: #8000001a;
   color: var(--orange);
   border: 0;
   padding: 10px 16px;
@@ -4570,6 +4569,7 @@ textarea:focus {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 500px;
+
 }
 .appTestBox {
   background-color: #fff;
@@ -4796,13 +4796,13 @@ textarea:focus {
   transition: filter 0.3s ease;
 }
 .appImageCardContainer:hover img {
-  filter: grayscale(0);
+  filter: grayscale(1);
   transition: filter 0.3s ease;
 }
 .appImageCardContainer span {
   position: absolute;
-  top: 5%;
-  left: 49%;
+  /* top: 5%; */
+  /* left: 49%; */
   width: 80px;
   height: 80px;
   border-radius: 100px;
@@ -4816,16 +4816,17 @@ textarea:focus {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+
 }
 .effect6:hover h4 {
   color: var(--orange);
 }
 
 .effect6:hover img {
-  filter: grayscale(0);
+  filter: grayscale(1);
 }
 .effect6:hover span {
-  background-color: #fcefe6;
+  background-color: #80000026;
 }
 
 .IosChoose {
@@ -5209,7 +5210,7 @@ textarea:focus {
 }
 
 .weCommitbox {
-  box-shadow: 0px 5.19px 16.62px 0px #f66a0026;
+  box-shadow: 0px 5.19px 16.62px 0px #80000026;
   background-color: var(--white);
   border-radius: 10px;
   margin: 10px 20px;
@@ -5289,6 +5290,7 @@ textarea:focus {
 .lines-3,
 .lines-4 {
   position: absolute;
+  filter: invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%) !important;
 }
 
 .lines-1 {
@@ -5824,6 +5826,8 @@ textarea:focus {
   }
   .mgTop15 {
     margin-top: 15px !important;
+    filter: invert(14%) sepia(96%) saturate(7480%) hue-rotate(353deg) brightness(72%) contrast(102%) !important;
+    
   }
   .mgTopNegative15 {
     margin-top: -15px !important;

@@ -25,7 +25,7 @@ const page = () => {
                 <div className="text-section">
                   <h2 className="title-page mainHeadingMobile">Top-Notch Mobile App Consulting Services</h2>
                   <p className="paragraphText my-4">
-                  With years of expertise in mobile app consulting, Cynergy has built a legacy of delivering exceptional services to our partners and clients. From initial app audits to mobile API development, Cynergy provides comprehensive solutions to create competitive, high-performing apps. Cynergy’s mobile consulting team excels in agile methodologies, focusing on efficient planning, design, and development to craft engaging mobile experiences.
+                  With years of expertise in mobile app consulting, Digital Wolf has built a legacy of delivering exceptional services to our partners and clients. From initial app audits to mobile API development, Digital Wolf provides comprehensive solutions to create competitive, high-performing apps. Digital Wolf’s mobile consulting team excels in agile methodologies, focusing on efficient planning, design, and development to craft engaging mobile experiences.
                    
                   </p>
                  <DropUsALine />
@@ -83,7 +83,7 @@ const page = () => {
           <div className="col-md-6 d-flex align-items-start justify-content-center flex-column paddingLeft3 gap-3">
             <h2 className="mainHeadingMobile mgTop25">Mobile App Optimization & Audit</h2>
             <p className="paragraphText">
-            Our mobile app audits are designed to assess security, compliance, and functionality, helping to identify and address any vulnerabilities or breaches. Cynergy offers expert guidance in optimizing mobile app performance and ensuring adherence to industry standards and regulations.
+            Our mobile app audits are designed to assess security, compliance, and functionality, helping to identify and address any vulnerabilities or breaches. Digital Wolf offers expert guidance in optimizing mobile app performance and ensuring adherence to industry standards and regulations.
             </p>
             <DropUsALine />
           </div>
@@ -95,7 +95,7 @@ const page = () => {
           <div className="col-md-6 d-flex align-items-start justify-content-center flex-column pe-5 gap-3">
             <h2 className="mainHeadingMobile">Mobile App Modernization</h2>
             <p className="paragraphText">
-            As technology evolves, so must your mobile apps. Cynergy helps modernize and enhance your existing mobile applications, incorporating the latest features and strategies to boost user engagement. Our approach ensures your app remains relevant in a fast-changing digital landscape.
+            As technology evolves, so must your mobile apps. Digital Wolf helps modernize and enhance your existing mobile applications, incorporating the latest features and strategies to boost user engagement. Our approach ensures your app remains relevant in a fast-changing digital landscape.
             </p>
             <DropUsALine />
           </div>
@@ -113,7 +113,7 @@ const page = () => {
           <div className="col-md-6 d-flex mgTop25 align-items-start justify-content-center flex-column paddingLeft3 gap-3">
             <h2 className="mainHeadingMobile">Mobile App Design</h2>
             <p className="paragraphText">
-            In today's digital age, the design of mobile apps is crucial for user engagement, accessibility, and overall experience. At Cynergy, we offer cost-effective design solutions for all mobile platforms—whether Native, Hybrid, or Cross-Platform—to ensure your app stands out in a crowded market.
+            In today's digital age, the design of mobile apps is crucial for user engagement, accessibility, and overall experience. At Digital Wolf, we offer cost-effective design solutions for all mobile platforms—whether Native, Hybrid, or Cross-Platform—to ensure your app stands out in a crowded market.
             </p>
             <DropUsALine />
           </div>
@@ -124,7 +124,7 @@ const page = () => {
         <div className="container py-5 text-center">
           <h2 className="top-ranked mainHeadingMobile">Why Choose Us</h2>
           <p className="paragraphText">
-          With over a decade of unmatched experience in mobile consulting and development, Cynergy has established itself as a leader in<br /> the digital technology landscape. Cynergy has helped countless industries and brands flourish by implementing<br /> innovative strategies and simplifying formulas for driving growth in both mobile and web development.
+          With over a decade of unmatched experience in mobile consulting and development, Digital Wolf has established itself as a leader in<br /> the digital technology landscape. Digital Wolf has helped countless industries and brands flourish by implementing<br /> innovative strategies and simplifying formulas for driving growth in both mobile and web development.
           </p>
           <div className="row">
             {whyChooseUs.map((item,i)=>(

@@ -67,14 +67,14 @@ body {
 
 /* Scrollbar thumb */
 ::-webkit-scrollbar-thumb {
-  background: #2b90c3 !important; /* Color of the scrollbar thumb */
+  background: #800000 !important; /* Color of the scrollbar thumb */
   border-radius: 4px; /* Rounded corners for the thumb */
   border: 3px solid #f0f0f0;
 }
 
 /* Scrollbar thumb on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #2b90c3; /* Darker shade on hover */
+  background: #800000; /* Darker shade on hover */
 }
 
 body {

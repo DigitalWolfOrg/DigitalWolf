@@ -214,7 +214,7 @@ function page() {
       {/* <div className="container py-4">
         <div className="row">
           <div className="col-md-6">
-            <h2>Digital Challenges Bow to cynergy studio Services</h2>
+            <h2>Digital Challenges Bow to digital wolf studio Services</h2>
           </div>
           <div className="col-md-6">
             <p>

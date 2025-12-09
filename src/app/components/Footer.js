@@ -115,9 +115,9 @@ function Footer() {
               <div className="footer-link">
                 <h5>Follow Us</h5>
                 <ul>
-                  <li> <a href="https://www.facebook.com/digitalwolf" target="_blank"> Facebook </a></li>
-                  <li><a href="https://www.instagram.com/digitalwolf/" target="_blank"> Instagram</a></li>
-                  <li><a href="https://github.com/digitalwolf" target="_blank"> Github</a></li>
+                  <li> <a href="#" target="_blank"> Facebook </a></li>
+                  <li><a href="#" target="_blank"> Instagram</a></li>
+                  <li><a href="#" target="_blank"> Github</a></li>
                   <li><a href="#"> LinkedIn</a></li>
                   <li><a href="#"> X</a></li>
                 </ul>

@@ -21,7 +21,7 @@ const page = () => {
             <div className="col-md-6 d-flex align-items-start justify-content-center flex-column">
               <h2 className="mainHeadingMobile">Why Choose Us</h2>
               <p className="paragraphText my-3 col-md-11">
-              Cynergy specializes in creating intuitive and visually appealing mobile app designs that offer seamless user experiences. Our expert team combines creativity with the latest design trends to ensure your app stands out in the competitive marketplace. With a user-centric approach, Cynergy focuses on understanding your audience and building designs that are not only aesthetically pleasing but also functional. Cynergy’s deliver high-quality, responsive, and scalable designs tailored to your business needs, ensuring your app’s success on both iOS and Android platforms. Choose us for innovative mobile app designs that drive results.
+              Digital Wolf specializes in creating intuitive and visually appealing mobile app designs that offer seamless user experiences. Our expert team combines creativity with the latest design trends to ensure your app stands out in the competitive marketplace. With a user-centric approach, Digital Wolf focuses on understanding your audience and building designs that are not only aesthetically pleasing but also functional. Digital Wolf’s deliver high-quality, responsive, and scalable designs tailored to your business needs, ensuring your app’s success on both iOS and Android platforms. Choose us for innovative mobile app designs that drive results.
               </p>
               <DropUsALine />
             </div>
@@ -44,7 +44,7 @@ const page = () => {
               Top Notch Team of <br /> Digital Wolf
             </h2>
             <p className="paragraphText text-center">
-            Cynergy stands out for its unmatched creativity and expertise in delivering cutting-edge solutions for designing exceptional user interfaces that elevate user experiences to the highest level.
+            Digital Wolf stands out for its unmatched creativity and expertise in delivering cutting-edge solutions for designing exceptional user interfaces that elevate user experiences to the highest level.
             </p>
           </div>
         </div>
@@ -65,7 +65,7 @@ const page = () => {
             <div className="col-md-8 py-5">
               <h2 className="mainHeadingMobile">Specialists for Platforms</h2>
               <p className="paragraphText">
-              Cynergy brings together a top-tier team of designers who focus on creating seamless and effective operational mechanisms tailored to meet our clients' needs. From modern UI designs to sleek layouts, our experts develop intuitive, unique designs that enhance user experience and drive engagement.
+              Digital Wolf brings together a top-tier team of designers who focus on creating seamless and effective operational mechanisms tailored to meet our clients' needs. From modern UI designs to sleek layouts, our experts develop intuitive, unique designs that enhance user experience and drive engagement.
               </p>
             </div>
             <div className="col-md-4 mgBottom d-flex align-items-center justify-content-end">
@@ -78,7 +78,7 @@ const page = () => {
                 <div className="col-md-6">
                   <h3 className="cardHeading">Native Android App Design</h3>
                   <p style={{color:'white',fontSize:'16px',lineHeight:'27px',marginTop:'20px',height:'235px'}} className="hide-scrollbar">
-                  Native apps are crafted specifically for one mobile operating system, such as iOS or Android, and cannot be used on other platforms. At Cynergy, we specialize in creating compelling and user-friendly UX designs that attract and engage users quickly on their native platforms.
+                  Native apps are crafted specifically for one mobile operating system, such as iOS or Android, and cannot be used on other platforms. At Digital Wolf, we specialize in creating compelling and user-friendly UX designs that attract and engage users quickly on their native platforms.
                   </p>
                 </div>
                 <div className="col-md-6"></div>
@@ -89,7 +89,7 @@ const page = () => {
                 <div className="col-md-6">
                   <h3>Cross-Platform Android App Design</h3>
                   <p style={{color:'#454545',fontSize:'16px',lineHeight:'27px',marginTop:'20px',height:'235px'}} className="hide-scrollbar">
-                  Cross-platform apps are designed to function across multiple operating systems like iOS and Android using a unified code base. Cynergy delivers efficient cross-platform designs that ensure a smooth user experience, making apps versatile and accessible on a variety of devices.
+                  Cross-platform apps are designed to function across multiple operating systems like iOS and Android using a unified code base. Digital Wolf delivers efficient cross-platform designs that ensure a smooth user experience, making apps versatile and accessible on a variety of devices.
                   </p>
                   <br />
                   <br />
@@ -111,7 +111,7 @@ const page = () => {
           </div>
           <div className="col-md-7 paddingLeft3 footerSection">
             <h2 className="mainHeadingMobile">
-              Benefits Of Cynergy <br /> Studios
+              Benefits Of Digital Wolf <br /> Studios
             </h2>
             <div className="row">
                 <div className="col-md-6 d-flex flex-column">
@@ -134,7 +134,7 @@ const page = () => {
       </div>
 
       <div className="my-4">
-        <AppCta CtaHeading={"Cynergy’s Service Scope?"} />
+        <AppCta CtaHeading={"Digital Wolf’s Service Scope?"} />
       </div>
       <div className="my-4">
         <FaqsSection faqs={faqData} />

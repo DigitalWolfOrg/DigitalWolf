@@ -69,9 +69,9 @@ export default function Home() {
               <div className="banner-numbers">
                 <div className="right-banner-div">
                   <div className="banner-social">
-                    <a href="https://www.linkedin.com/company/digitalWolf.co/posts/?feedView=all" target="_blank"><FaLinkedin /></a>
-                    <a href="https://www.instagram.com/digitalWolf.io?igsh=MTJjejMwb2RiMWgycQ==" target="_blank"><FaInstagram /></a>
-                    <a href="https://www.facebook.com/digitalWolf.io" target="_blank"><FaFacebook /></a>
+                    <a href="#" target="_blank"><FaLinkedin /></a>
+                    <a href="#" target="_blank"><FaInstagram /></a>
+                    <a href="#" target="_blank"><FaFacebook /></a>
                   </div>
                   <span>We Are The Mobile Business Builders</span>
                 </div>

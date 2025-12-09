@@ -84,7 +84,7 @@ const page = () => {
                   you.
                 </li>
                 <li>
-                  You: a person or entity that is registered with Cynergy
+                  You: a person or entity that is registered with Digital Wolf
                   Studios to use the Services.
                 </li>
               </ul>

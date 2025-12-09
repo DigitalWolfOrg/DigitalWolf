@@ -24,8 +24,8 @@ const page = () => {
           <div className="col-md-6 d-flex align-items-start justify-content-center flex-column gap-4">
             <h2 className="mainHeadingMobile">Android App Developer</h2>
             <p className="paragraphText">
-            Create an exceptional Android app with cutting-edge features and sleek designs. Cynergy’s team of experienced developers is committed to crafting high-quality, innovative Android applications that drive user engagement and business success. From startups to large enterprises, 
-            Cynergy offers comprehensive solutions tailored to meet your unique business goals, leveraging the latest technology. 
+            Create an exceptional Android app with cutting-edge features and sleek designs. Digital Wolf's team of experienced developers is committed to crafting high-quality, innovative Android applications that drive user engagement and business success. From startups to large enterprises, 
+            Digital Wolf offers comprehensive solutions tailored to meet your unique business goals, leveraging the latest technology. 
             </p>
             <DropUsALine />
           </div>
@@ -38,7 +38,7 @@ const page = () => {
       <div className="container midMobileAdd appMobilePadding">
         <h2 className="text-center mainHeadingMobile">Premium Android <br /> App Development Services</h2>
         <p className="text-center paragraphText">
-        Cynergy builds feature-rich Android apps using advanced tech stacks. Our expert developers consistently<br /> exceed industry standards, delivering creative and robust Android applications that enhance user experiences.<br /> Cynergy focuses on developing powerful, reliable apps that align with your vision and business objectives.
+        Digital Wolf builds feature-rich Android apps using advanced tech stacks. Our expert developers consistently<br /> exceed industry standards, delivering creative and robust Android applications that enhance user experiences.<br /> Digital Wolf focuses on developing powerful, reliable apps that align with your vision and business objectives.
         </p>
         <div style={{marginTop:'5rem'}} className="row">
           <img
@@ -65,13 +65,13 @@ const page = () => {
             <div className="panelBoxLeft">
               <h4 className="lineHeading">Custom Android App Development</h4>
               <p className="smallParaText m-0">
-              Our Android app developers specialize in crafting custom applications designed to deliver a dynamic user experience and drive business growth. Cynergy creates fully functional apps that solve real-world problems while providing an intuitive interface and seamless performance. Hire a dedicated Android developer to create apps that set you apart in the global market.
+              Our Android app developers specialize in crafting custom applications designed to deliver a dynamic user experience and drive business growth. Digital Wolf creates fully functional apps that solve real-world problems while providing an intuitive interface and seamless performance. Hire a dedicated Android developer to create apps that set you apart in the global market.
               </p>
             </div>
             <div className="panelBoxLeft m-0">
               <h4 className="lineHeading">Design and Development</h4>
               <p className="smallParaText">
-              Cynergy invests in designing engaging, user-friendly interfaces that provide exceptional user experiences. Our Android app developers focus on creating appealing layouts and intuitive wireframes that keep your users engaged, ensuring both form and function are perfectly balanced in your app.
+              Digital Wolf invests in designing engaging, user-friendly interfaces that provide exceptional user experiences. Our Android app developers focus on creating appealing layouts and intuitive wireframes that keep your users engaged, ensuring both form and function are perfectly balanced in your app.
               </p>
             </div>
           </div>
@@ -83,16 +83,16 @@ const page = () => {
             />
           </div>
           <div className="col-md-3 d-flex mgTop25 align-items-center justify-content-evenly flex-column">
-            <div className="panelBoxRight m-0">
+            <div className="panelBoxRight ">
               <h4 className="lineHeading">Stringent Testing Process</h4>
               <p className="smallParaText">
-              Quality is our top priority. Cynergy employs a rigorous testing process to ensure that every Android app is free from bugs and performs seamlessly. Our comprehensive testing strategies ensure that your app is optimized for performance, providing users with a flawless experience and eliminating any barriers to smooth operation.
+              Quality is our top priority. Digital Wolf employs a rigorous testing process to ensure that every Android app is free from bugs and performs seamlessly. Our comprehensive testing strategies ensure that your app is optimized for performance, providing users with a flawless experience and eliminating any barriers to smooth operation.
               </p>
             </div>
-            <div className="panelBoxRight m-0">
+            <div className="panelBoxRight mt-4">
               <h4 className="lineHeading">Maintenance and Update</h4>
               <p className="smallParaText">
-              Our Android app developers provide ongoing maintenance and updates to ensure your app stays current and performs optimally. Hire Cynergy’s experts to guarantee your app remains secure, efficient, and aligned with evolving user needs and technological advancements.
+              Our Android app developers provide ongoing maintenance and updates to ensure your app stays current and performs optimally. Hire Digital Wolf's experts to guarantee your app remains secure, efficient, and aligned with evolving user needs and technological advancements.
               </p>
             </div>
           </div>
@@ -105,7 +105,7 @@ const page = () => {
             <div className="col-md-8">
               <h2 className="mainHeadingMobile">Developers Adequacies</h2>
               <p className="paragraphText">
-              Cynergy’s experienced developers bring creative and practical solutions to every project, ensuring it meets your business needs and growth objectives. Hire our dedicated developers to craft powerful web applications that help your business thrive and expand on a global scale.
+              Digital Wolf's experienced developers bring creative and practical solutions to every project, ensuring it meets your business needs and growth objectives. Hire our dedicated developers to craft powerful web applications that help your business thrive and expand on a global scale.
               </p>
             </div>
             <div className="col-md-4 d-flex align-items-center justify-content-end">
@@ -135,13 +135,13 @@ const page = () => {
           <div className="col-md-6 footerSection">
             <h2 className="text-end mainHeadingMobile">Android Developers</h2>
             <p className="text-end paragraphText">
-            Our Android developers bring a wealth of expertise and advanced technical skills to every project. From creating powerful apps to optimizing performance, our team delivers reliable and scalable solutions. Cynergy offers a broad range of Android app developers with diverse expertise to suit your specific project needs.
+            Our Android developers bring a wealth of expertise and advanced technical skills to every project. From creating powerful apps to optimizing performance, our team delivers reliable and scalable solutions. Digital Wolf offers a broad range of Android app developers with diverse expertise to suit your specific project needs.
             </p>
             <div className="row mt-5 lines-andrd">
               <div className="col-md-11 line-area1">
-                <h3 style={{fontWeight: '700',color:'#2b90c3'}} className="text-end mt-2">Junior Developer</h3>
+                <h3 style={{fontWeight: '700',color:'#800000'}} className="text-end mt-2">Junior Developer</h3>
                 <p className="text-end navHeading">
-                Cynergy’s junior Android developers work under the guidance of senior developers to bring your app ideas to life. With a focus on performance and security, they contribute to building high-quality apps that meet your requirements.
+                Digital Wolf's junior Android developers work under the guidance of senior developers to bring your app ideas to life. With a focus on performance and security, they contribute to building high-quality apps that meet your requirements.
                 </p>
                 <h3 style={{fontWeight: '700'}} className="text-end mt-5">Mid-Level Developers</h3>
                 <p className="text-end navHeading">
@@ -149,7 +149,7 @@ const page = () => {
                 </p>
                 <h3 style={{fontWeight: '700'}} className="text-end mt-5">Seniors Developers</h3>
                 <p className="text-end navHeading">
-                Cynergy’s senior Android developers have deep expertise and a proven track record in building complex, high-performing Android apps. They handle advanced app functionalities, optimize performance, and integrate new features to keep your app competitive in the market.
+                Digital Wolf's senior Android developers have deep expertise and a proven track record in building complex, high-performing Android apps. They handle advanced app functionalities, optimize performance, and integrate new features to keep your app competitive in the market.
                 </p>
               </div>
               <div className="col-md-1 line-area2">

@@ -1,10 +1,10 @@
 export const designProcess = [
-    {heading:"Project Idea",description:"Cynergy starts with a detailed assessment of your app idea, defining its dimensions and objectives. This foundational stage ensures every aspect of your app aligns with your vision and business goals."},
-    {heading:"Market Research and Analysis",description:"Cynergy’s design process includes thorough market analysis to identify trends, user behavior, and app performance metrics. This ensures your Android app design is competitive and fosters growth."},
-    {heading:"Wireframing",description:"Wireframes serve as blueprints for your app, outlining layout and functionality. Cynergy’s designers create interactive wireframes to visualize the final product, ensuring alignment with your expectations."},
-    {heading:"User Interface (UI) Design",description:"Cynergy crafts visually compelling UI designs, focusing on branding, color schemes, and cohesive layouts. Our designs elevate your Android app, attracting users and enhancing its market appeal."},
+    {heading:"Project Idea",description:"Digital Wolf starts with a detailed assessment of your app idea, defining its dimensions and objectives. This foundational stage ensures every aspect of your app aligns with your vision and business goals."},
+    {heading:"Market Research and Analysis",description:"Digital Wolf's design process includes thorough market analysis to identify trends, user behavior, and app performance metrics. This ensures your Android app design is competitive and fosters growth."},
+    {heading:"Wireframing",description:"Wireframes serve as blueprints for your app, outlining layout and functionality. Digital Wolf's designers create interactive wireframes to visualize the final product, ensuring alignment with your expectations."},
+    {heading:"User Interface (UI) Design",description:"Digital Wolf crafts visually compelling UI designs, focusing on branding, color schemes, and cohesive layouts. Our designs elevate your Android app, attracting users and enhancing its market appeal."},
     {heading:"Prototyping",description:"Prototypes bring your app to life, showcasing UX flow and structure. This phase allows for early testing and refinement, ensuring a user-friendly and efficient design."},
-    {heading:"Feedback and Iteration",description:"Cynergy incorporates client feedback and perform iterative improvements to optimize performance and functionality. This ensures your app exceeds expectations in both design and usability."},
+    {heading:"Feedback and Iteration",description:"Digital Wolf incorporates client feedback and perform iterative improvements to optimize performance and functionality. This ensures your app exceeds expectations in both design and usability."},
 ]
 
 export const faqData = [
@@ -44,16 +44,16 @@ export const faqData = [
 
 
 export const androidAppDesign = [
-{heading:"Proven Expertise",description:"Collaborate with our expert designers to enhance your app’s market presence. Cynergy’s proven Android app design expertise accelerates development and delivers impactful solutions for your business growth."},
-{heading:"Scalability and High User Engagement",description:"Transform your mobile app ideas into innovative features with Cynergy. Cynergy’s design scalable, future-ready Android apps that ensure seamless updates and exceptional user engagement."},
-{heading:"Responsive Design",description:"Cynergy specializes in creating responsive designs for diverse screen sizes, ensuring a superior user experience across devices. Our innovative solutions help your Android app stand out on any platform."},
-{heading:"Accessibility Features",description:"With extensive experience in Android app design, Cynergy integrates accessibility standards, including screen compatibility, voice commands, and multiple text options, to make apps more inclusive."},
-{heading:"Support and Maintenance",description:"Cynergy’s dedicated support and maintenance services keep your Android app secure, updated, and free of bugs, ensuring optimal performance and reliability over time."},
-{heading:"Security and Compliance",description:"As a leading Android app design company, Cynergy prioritizes data security and compliance. Cynergy implements robust privacy policies and ensure your app adheres to industry standards for user trust and satisfaction."},
+{heading:"Proven Expertise",description:"Collaborate with our expert designers to enhance your app’s market presence. Digital Wolf's proven Android app design expertise accelerates development and delivers impactful solutions for your business growth."},
+{heading:"Scalability and High User Engagement",description:"Transform your mobile app ideas into innovative features with Digital Wolf. Digital Wolf's design scalable, future-ready Android apps that ensure seamless updates and exceptional user engagement."},
+{heading:"Responsive Design",description:"Digital Wolf specializes in creating responsive designs for diverse screen sizes, ensuring a superior user experience across devices. Our innovative solutions help your Android app stand out on any platform."},
+{heading:"Accessibility Features",description:"With extensive experience in Android app design, Digital Wolf integrates accessibility standards, including screen compatibility, voice commands, and multiple text options, to make apps more inclusive."},
+{heading:"Support and Maintenance",description:"Digital Wolf's dedicated support and maintenance services keep your Android app secure, updated, and free of bugs, ensuring optimal performance and reliability over time."},
+{heading:"Security and Compliance",description:"As a leading Android app design company, Digital Wolf prioritizes data security and compliance. Digital Wolf implements robust privacy policies and ensure your app adheres to industry standards for user trust and satisfaction."},
 ]
 
 export const whyChooseUs = [
-    {heading:"Reliability",description:"Our unwavering commitment to excellence establishes us as a trusted partner for businesses. With a meticulous approach, Cynergy delivers exclusive Android app designs that ensure consistent user satisfaction and industry leadership."},
-    {heading:"Quality Assurance",description:"Quality is central to our process. From UI design to coding and testing, we ensure every Android app Cynergy’s design meets the highest standards, maintaining a benchmark for excellence."},
-    {heading:"Design Innovation",description:"At Cynergy, we embrace cutting-edge technologies to create unique and visually appealing Android app designs. Our innovative approach enhances user interfaces, streamlining business processes and elevating app performance."},
+    {heading:"Reliability",description:"Our unwavering commitment to excellence establishes us as a trusted partner for businesses. With a meticulous approach, Digtal Wolf delivers exclusive Android app designs that ensure consistent user satisfaction and industry leadership."},
+    {heading:"Quality Assurance",description:"Quality is central to our process. From UI design to coding and testing, we ensure every Android app Digital Wolf's design meets the highest standards, maintaining a benchmark for excellence."},
+    {heading:"Design Innovation",description:"At Digital Wolf, we embrace cutting-edge technologies to create unique and visually appealing Android app designs. Our innovative approach enhances user interfaces, streamlining business processes and elevating app performance."},
 ]

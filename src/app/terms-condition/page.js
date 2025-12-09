@@ -59,15 +59,15 @@ const page = () => {
                 the website strictly in accordance with the terms of this
                 Agreement.
                 <br /> <br />
-                These Terms & Conditions are a contract between you and Cynergy
-                Studios (referred to in these Terms & Conditions as "Cynergy
-                Studios," "us," "we," or "our"), the provider of the Cynergy
-                Studios website and the services accessible from the Cynergy
+                These Terms & Conditions are a contract between you and Digital Wolf
+                Studios (referred to in these Terms & Conditions as "Digital Wolf
+                Studios," "us," "we," or "our"), the provider of the Digital Wolf
+                Studios website and the services accessible from the Digital Wolf
                 Studios website (which are collectively referred to in these
                 Terms & Conditions as the "Digital Wolf Service").
                 <br /> <br />
                 You agree to be bound by these Terms & Conditions. If you do not
-                agree to these Terms & Conditions, please do not use the Cynergy
+                agree to these Terms & Conditions, please do not use the Digital Wolf
                 Studios Service. In these Terms & Conditions, "you" refers both
                 to you as an individual and to the entity you represent. If you
                 violate any of these Terms & Conditions, we reserve the right to
@@ -102,7 +102,7 @@ const page = () => {
                 </li>
                 <li>
                   Device: any internet-connected device such as a phone, tablet,
-                  computer or any other device that can be used to visit Cynergy
+                  computer or any other device that can be used to visit Digital Wolf
                   Studios and use the services.
                 </li>
                 <li>
@@ -117,7 +117,7 @@ const page = () => {
                   you.
                 </li>
                 <li>
-                  You: a person or entity that is registered with Cynergy
+                  You: a person or entity that is registered with Digital Wolf
                   Studios to use the Services.
                 </li>
               </ul>
@@ -271,7 +271,7 @@ const page = () => {
                 We may display, include, or make available third-party content
                 (including data, information, applications, and other product
                 services) or provide links to third-party websites or services
-                ("Third-Party Services"). You acknowledge and agree that Cynergy
+                ("Third-Party Services"). You acknowledge and agree that Digital Wolf
                 Studios shall not be responsible for any Third-Party Services,
                 including their accuracy, completeness, timeliness, validity,
                 copyright compliance, legality, decency, quality, or any other
@@ -292,7 +292,7 @@ const page = () => {
                 Digital Wolf. Digital Wolf may, in its sole discretion, at
                 any time and for any or no reason, suspend or terminate this
                 Agreement with or without prior notice. This Agreement will
-                terminate immediately, without prior notice from Cynergy
+                terminate immediately, without prior notice from Digital Wolf
                 Studios, in the event that you fail to comply with any provision
                 of this Agreement. You may also terminate this Agreement by
                 deleting the website and all copies thereof from your computer.
@@ -479,7 +479,7 @@ const page = () => {
                 Digital Wolf regarding your use of the website and supersedes
                 all prior and contemporaneous written or oral agreements between
                 you and Digital Wolf. You may be subject to additional terms
-                and conditions that apply when you use or purchase other Cynergy
+                and conditions that apply when you use or purchase other Digital Wolf
                 Studios services, which Digital Wolf will provide to you at
                 the time of such use or purchase.
               </p>
@@ -527,7 +527,7 @@ const page = () => {
               <p>
                 This section applies to any dispute EXCEPT IT DOESN’T INCLUDE A
                 DISPUTE RELATING TO CLAIMS FOR INJUNCTIVE OR EQUITABLE RELIEF
-                REGARDING THE ENFORCEMENT OR VALIDITY OF YOUR OR Cynergy
+                REGARDING THE ENFORCEMENT OR VALIDITY OF YOUR OR Digital Wolf
                 Studios’s INTELLECTUAL PROPERTY RIGHTS. The term “dispute” means
                 any dispute, action, or other controversy between you and
                 Digital Wolf concerning the Services or this agreement,

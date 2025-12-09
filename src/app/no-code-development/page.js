@@ -23,7 +23,7 @@ const page = () => {
             <h2 className="mainHeadingMobile">Low-Code/No-Code Mastery: Platforms We Excel In</h2>
             {/* <h3 className="my-2 subHeading" style={{fontWeight:'600'}}>Our Expertise in Action Services</h3> */}
             <p className="paragraphText my-3">
-            Cynergy specializes in leading low-code/no-code platforms like Bubble, OutSystems, and Mendix, enabling businesses to quickly create powerful applications without extensive coding knowledge, streamlining workflows, and reducing development time.
+            Digital Wolf specializes in leading low-code/no-code platforms like Bubble, OutSystems, and Mendix, enabling businesses to quickly create powerful applications without extensive coding knowledge, streamlining workflows, and reducing development time.
             </p>
             <DropUsALine />
           </div>
@@ -45,7 +45,7 @@ const page = () => {
             Code/Low-Code
           </h2>
           <p className="text-center paragraphText">
-          Cynergy’s low-code/no-code solutions empower businesses to rapidly create apps and automate processes with minimal coding.<br /> This approach accelerates development, enhances collaboration, and reduces the need for specialized technical expertise.
+          Digital Wolf’s low-code/no-code solutions empower businesses to rapidly create apps and automate processes with minimal coding.<br /> This approach accelerates development, enhances collaboration, and reduces the need for specialized technical expertise.
           </p>
           <div className="row">
             {empowerWithEase.map((item,i)=>(

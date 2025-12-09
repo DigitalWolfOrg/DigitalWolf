@@ -153,7 +153,7 @@ const BlogDetail = ({id}) => {
           }}
         >
           Have More Questions Or Ready To{" "}
-          <span style={{ color: "#2b90c3" }}>Start Building</span> <br /> Your
+          <span style={{ color: "#800000" }}>Start Building</span> <br /> Your
           Dream product?
         </p>
         <div

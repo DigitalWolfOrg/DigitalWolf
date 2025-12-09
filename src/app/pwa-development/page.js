@@ -23,7 +23,7 @@ const page = () => {
             <div className="col-md-6 d-flex align-items-start justify-content-center flex-column gap-3">
               <h2 className="mainHeadingMobile">PWA Development Company</h2>
               <p className="paragraphText col-md-11">
-              With a history of delivering excellence, Cynergy specializes in creating seamless Progressive Web Apps (PWA) that unify iOS, Android, and web platforms through a single codebase. Cynergy’s innovative approach integrates cutting-edge features to craft PWAs that are fast, reliable, and highly engaging, ensuring an exceptional user experience. Designed with scalability and adaptability in mind, Cynergy solutions meet diverse user needs and industry demands, helping businesses stay ahead in an ever-evolving digital landscape.
+              With a history of delivering excellence, Digital Wolf specializes in creating seamless Progressive Web Apps (PWA) that unify iOS, Android, and web platforms through a single codebase. Digital Wolf’s innovative approach integrates cutting-edge features to craft PWAs that are fast, reliable, and highly engaging, ensuring an exceptional user experience. Designed with scalability and adaptability in mind, Digital Wolf solutions meet diverse user needs and industry demands, helping businesses stay ahead in an ever-evolving digital landscape.
               </p>
              <DropUsALine />
             </div>
@@ -45,7 +45,7 @@ const page = () => {
           </div>
           <div className="col-md-6 paddingLeft3 d-flex align-items-center justify-content-center">
             <p className="paragraphText col-md-11">
-            Combining all essential elements of creating Progressive Web Apps (PWAs), Cynergy offers a premium process that includes personalized architecture, efficient development workflows, and seamless data migration. Cynergy’s expertise ensures your PWA stands out with intuitive design and high-performance capabilities.
+            Combining all essential elements of creating Progressive Web Apps (PWAs), Digital Wolf offers a premium process that includes personalized architecture, efficient development workflows, and seamless data migration. Digital Wolf’s expertise ensures your PWA stands out with intuitive design and high-performance capabilities.
             </p>
           </div>
         </div>
@@ -76,7 +76,7 @@ const page = () => {
             <div className="col-md-8">
               <h2 className="mainHeadingMobile">Development Process</h2>
               <p className="paragraphText">
-              Transforming your PWA idea into reality requires a structured and agile methodology. Cynergy’s fine-tune every stage of the process to deliver feature-rich progressive web apps (PWAs) with user-focused solutions. From evaluation and design to testing, deployment, and ongoing maintenance, Cynergy’s approach ensures optimal performance, functionality, and user experience.
+              Transforming your PWA idea into reality requires a structured and agile methodology. Digital Wolf’s fine-tune every stage of the process to deliver feature-rich progressive web apps (PWAs) with user-focused solutions. From evaluation and design to testing, deployment, and ongoing maintenance, Digital Wolf’s approach ensures optimal performance, functionality, and user experience.
               </p>
             </div>
             <div className="col-md-4 d-flex align-items-center justify-content-end">
@@ -105,7 +105,7 @@ const page = () => {
       >
         <h2 className="mainHeadingMobile">Web App Solutions</h2>
         <p className="paragraphText">
-          Cynergy’s progressive web app (PWA) development services leverage cutting-edge technology to deliver<br /> high-performing and visually appealing PWAs. These solutions empower businesses to stand <br />out among competitors by providing advanced functionality and user-centric designs.
+          Digital Wolf’s progressive web app (PWA) development services leverage cutting-edge technology to deliver<br /> high-performing and visually appealing PWAs. These solutions empower businesses to stand <br />out among competitors by providing advanced functionality and user-centric designs.
         </p>
         <div className="row">
           <div className="col-md-1"></div>
@@ -132,7 +132,7 @@ const page = () => {
                   data-bs-parent="#accordionExample"
                 >
                   <div className="accordion-body">
-                  Access your app’s features even without an internet connection. Cynergy develops PWAs that allow seamless offline interactions, ensuring consistent user engagement.
+                  Access your app’s features even without an internet connection. Digital Wolf develops PWAs that allow seamless offline interactions, ensuring consistent user engagement.
                   </div>
                 </div>
               </div>
@@ -159,7 +159,7 @@ const page = () => {
                   data-bs-parent="#accordionExample"
                 >
                   <div className="accordion-body">
-                  Cynergy’s PWAs are built using standardized web technologies, making them accessible across multiple platforms and devices without requiring separate versions.
+                  Digital Wolf’s PWAs are built using standardized web technologies, making them accessible across multiple platforms and devices without requiring separate versions.
                   </div>
                 </div>
               </div>
@@ -185,7 +185,7 @@ const page = () => {
                   data-bs-parent="#accordionExample"
                 >
                   <div className="accordion-body">
-                  By optimizing loading speeds and enhancing interactions, Cynergy delivers PWAs that provide reliable, smooth, and fast user experiences for your audience.
+                  By optimizing loading speeds and enhancing interactions, Digital Wolf delivers PWAs that provide reliable, smooth, and fast user experiences for your audience.
                   </div>
                 </div>
               </div>
@@ -211,7 +211,7 @@ const page = () => {
                   data-bs-parent="#accordionExample"
                 >
                   <div className="accordion-body">
-                  Enhance connectivity between your web app and other platforms or devices with link-sharing capabilities. Cynergy designs PWAs that offer easy linking for a cohesive user journey.
+                  Enhance connectivity between your web app and other platforms or devices with link-sharing capabilities. Digital Wolf designs PWAs that offer easy linking for a cohesive user journey.
                   </div>
                 </div>
               </div>
@@ -237,7 +237,7 @@ const page = () => {
                   data-bs-parent="#accordionExample"
                 >
                   <div className="accordion-body">
-                  Cynergy’s PWAs integrate effortlessly with existing systems and platforms, ensuring smooth transitions and enhanced functionality. This reduces disruptions and maximizes efficiency.
+                  Digital Wolf’s PWAs integrate effortlessly with existing systems and platforms, ensuring smooth transitions and enhanced functionality. This reduces disruptions and maximizes efficiency.
                   </div>
                 </div>
               </div>
@@ -278,7 +278,7 @@ const page = () => {
             <div className="col-md-8">
               <h2 className="mainHeadingMobile">Why Choose Us</h2>
               <p className="paragraphText">
-              Cynergy combines innovative strategies and advanced technology to help startups and established businesses achieve their digital goals. Cynergy’s PWA development services ensure seamless transformation and sustainable success across diverse industries.
+              Digital Wolf combines innovative strategies and advanced technology to help startups and established businesses achieve their digital goals. Digital Wolf’s PWA development services ensure seamless transformation and sustainable success across diverse industries.
               </p>
             </div>
             <div className="col-md-4 d-flex align-items-center justify-content-end">
@@ -299,7 +299,7 @@ const page = () => {
       </div>
 
       <div className="my-4">
-        <AppCta CtaHeading={"Cynergy’s Service Scope?"} />
+        <AppCta CtaHeading={"Digital Wolf’s Service Scope?"} />
       </div>
       <div className="my-4">
         <FaqsSection faqs={faqData} />
